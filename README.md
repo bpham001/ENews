@@ -1,3 +1,17 @@
+This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language will also be analyzed in this project.
+
+Skills & Tools Covered: 
+
+- Hypothesis Testing
+  
+- a/b testing
+  
+- Data Visualization
+  
+- Statistical Inference
+
+=======================================================================================
+
 ***---Overview---***
 
 This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language will also be analyzed in this project.
@@ -38,12 +52,4 @@ converted - Whether the user gets converted to a subscriber of the news portal o
 
 language_preferred - Language chosen by the user to view the landing page
 
-***---Skills & Tools Covered---***
 
-Hypothesis Testing
-
-a/b testing
-
-Data Visualization
-
-Statistical Inference
